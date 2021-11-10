@@ -1,6 +1,8 @@
-# ListFilter
+# Segundo Desafio de Elixir (RocketSeat)
+- Praticar e aprender sobre os métodos do Enun, como Filter, Count e a utilização do Regex match
 
-**TODO: Add description**
+## ListFilter
+- Um function que filtra uma lista de Strings e retonra a contagem de dígitos ímpares
 
 ## Installation
 
